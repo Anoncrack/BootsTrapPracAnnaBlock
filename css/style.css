@@ -1,0 +1,19 @@
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.carousel-control-prev-icon {
+    background-image: url(../img/chevron-back-outline.svg);
+}
+.carousel-control-next-icon {
+    background-image: url(../img/chevron-forward-outline.svg);
+}
+.carousel-control-next, .carousel-control-prev {
+    width: 20px;
+}
+.carousel-control-prev {
+    left: -50px;
+}
+.carousel-control-prev {
+    right: -50px;
+}
